@@ -1,6 +1,5 @@
 *{
     font-family: 'Crimson Text', serif;
-font-family: 'Josefin Sans', sans-serif;ily: 'Crimson Text', serif;
 
 }
 .productdisplay{
@@ -25,6 +24,7 @@ font-family: 'Josefin Sans', sans-serif;ily: 'Crimson Text', serif;
     height: 700px;
 }
 .productdisplay-right{
+    background: white;
     margin: 0px 70px;
     display: flex;
     flex-direction: column;
@@ -34,7 +34,14 @@ font-family: 'Josefin Sans', sans-serif;ily: 'Crimson Text', serif;
     font-size: 40px;
     font-weight: 700;
 }
-
+.productdisplay-right-star{
+    display: flex;
+    align-items: center;
+    margin-top: 13px;
+    gap: 5px;
+    color: #1c1c1c;
+    font-size: 16px;
+}
 .productdisplay-right-prices{
     display: flex;
     margin: 40px 0px;
