@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+}
+body {
+  margin: 0;
+  font-family: 'Crimson Text', serif;
+font-family: 'Josefin Sans', sans-serif;ily: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Crimson Text', serif;
+font-family: 'Josefin Sans', sans-serif;ily: 'Crimson Text', serif;
+/* background: rgb(208, 238, 250); */
+background: url("/Users/nisharathod/Downloads/Pawkit/src/Components/Assets/bg.jpg") center/cover no-repeat;
+}
+
+
+code {
+  font-family: 'Crimson Text', serif;
+font-family: 'Josefin Sans', sans-serif;ily: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
