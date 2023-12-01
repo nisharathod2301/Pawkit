@@ -5,7 +5,7 @@ const Breadcrums = (props) => {
     const {product}=props;
   return (
     <div className='breadcrum'>
-        Home <span>{'>>'}</span> Shop <span>{'>>'}</span> {product.category} <span>{'>>'}</span> {product.name}
+        Dog House <span>{'->'}</span> {product.category} <span>{'->'}</span> {product.name}
     </div>
   );
 };

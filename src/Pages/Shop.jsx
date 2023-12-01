@@ -1,6 +1,6 @@
 import React from 'react'
-import Popular from '../Components/Popular/Popular'
-import Offers from '../Components/Offers/Offers'
+import Upstock from '../Components/Upstock/Upstock'
+import Adopt from '../Components/Adopt/Adopt'
 import NewCollections from '../Components/NewCollections/NewCollections'
 import NewsLetter from '../Components/NewsLetter/NewsLetter'
 
@@ -9,8 +9,8 @@ const Shop = () => {
   return (
     <div>
         
-        <Popular/>
-        <Offers/>
+        <Upstock/>
+        <Adopt/>
         <NewCollections/>
         <NewsLetter/>
     </div>

@@ -29,9 +29,9 @@ font-family: 'Josefin Sans', sans-serif;ily: 'Crimson Text', serif;
     border: 1px solid black;
     padding-left: 20px;
     outline: none;
-    color: palevioletred;
+    color: rgb(112, 198, 232);
     font-size: 18px;
-    font-weight: bold;
+    font-weight: bolder;
 }
 .loginsignup-container button{
     width: 100%;
@@ -51,6 +51,6 @@ font-family: 'Josefin Sans', sans-serif;ily: 'Crimson Text', serif;
     font-weight: 500;
 }
 .loginsignup-login span{
-    color: palevioletred;
+    color: rgb(112, 198, 232);
     font-weight: 600;
 }

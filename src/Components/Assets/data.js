@@ -12,7 +12,7 @@ let data_product = [
     },
     {
         id:2,
-        name:"Fitted leather wear",
+        name:"Fitted leatdog wear",
         image: p2,
         new_price:110.00,
         old_price:200.50,
@@ -24,19 +24,6 @@ let data_product = [
         new_price:98.00,
         old_price:150.50,
     },
-    // {
-    //     id:4,
-    //     name:"p4",
-    //     image: p1,
-    //     new_price:50.00,
-    //     old_price:80.50,
-    // },
-    // {
-    //     id:5,
-    //     name:"p5",
-    //     image: p1,
-    //     new_price:50.00,
-    //     old_price:80.50,
-    // },
+
 ];
 export default data_product;

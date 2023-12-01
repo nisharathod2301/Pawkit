@@ -13,7 +13,7 @@ const Navbar = () => {
             <img src={logo} alt="Unable to load img" />
             <ul className='nav-menu'>
                 <li onClick={()=>{(setMenu("shop"))}}><Link style={{textDecoration: 'none' ,color: '#000'}} to='/'>Dog House</Link>{menu=="shop"?<hr/>:<></>}</li>
-                <li onClick={()=>{(setMenu("her"))}}><Link style={{textDecoration: 'none' ,color: '#000'}} to='/her'>Dog's Wardrobe</Link>{menu=="her"?<hr/>:<></>}</li>
+                <li onClick={()=>{(setMenu("dog"))}}><Link style={{textDecoration: 'none' ,color: '#000'}} to='/dog'>Dog's Wardrobe</Link>{menu=="dog"?<hr/>:<></>}</li>
                 <li onClick={()=>{(setMenu("Accessories"))}}><Link style={{textDecoration: 'none' ,color:'#000'}} to='/Accessories'>Pawessories</Link>{menu=="Accessories"?<hr/>:<></>}</li>
                 {/* <li onClick={()=>{(setMenu("fragnance"))}}><Link style={{textDecoration: 'none' ,color:'#000'}} to='/fragnance'>Fragnances</Link>{menu=="fragnance"?<hr/>:<></>}</li> */}
             </ul>

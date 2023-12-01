@@ -1,7 +1,7 @@
 let data_product = [
     {
         id:1,
-        name:"Ethereal Bees Collar",
+        name:"Etdogeal Bees Collar",
         image: "https://www.shop.myfamilyvets.co.uk/cdn/shop/products/red-dingo-bumble-bee-black-dog-collar.png?v=1654690666",
         new_price:65.00,
         old_price:80.50,

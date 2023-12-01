@@ -10,12 +10,9 @@ const LoginSignup = () => {
             <input type="email"placeholder='Email' />
             <input type="password"placeholder='Password' />
           </div>
-          <button>Continue</button>
-          <p className="loginsignup-login">Already have an account? <span>Login here</span></p>
-          <div className="loginsignup-agree">
-            <input type="checkbox" name='' id=''/>
-            <p>I agree to terms and conditions</p>
-          </div>
+          <button>Woof</button>
+          <p className="loginsignup-login">Already have a dog? <span>Login</span></p>
+          
         </div>
     </div>
   )

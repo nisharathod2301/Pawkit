@@ -6,7 +6,7 @@ const NewCollections = () => {
   return (
     <div className='new-collections'>
         <h1>Pawessories</h1>
-        <p>Fun fact: Dogs have an incredible ability to love unconditionally, creating a bond like no other!</p>
+        <p>Fun fact: Dogs have an incredible ability to love unconditionally, creating a bond like no otdog!</p>
         <hr />
         <div className="collections">
             {new_collection.map((item,i)=>{
